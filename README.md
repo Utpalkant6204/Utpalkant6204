@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-🌱 I’m currently learning Java Full Stack Development<br>👩🏻‍🎓  Studied Computer Science at Indian Institute of Information Technology, Ranchi<br>🤝 I’m looking for help with Java Backend Development<br>💬 Ask me about ReactJs<br>📫 How to reach me: utpalkant7324@gmail.com  <br>
+🌱 I’m Java Full Stack Development<br>👩🏻‍🎓  Studied Computer Science at Indian Institute of Information Technology, Ranchi<br>🤝 I’m looking for help with Java Backend Development<br>💬 Ask me about ReactJs<br>📫 How to reach me: utpalkant7324@gmail.com  <br>
 
 
 ## 💻 Tech Stack :
